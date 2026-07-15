@@ -1,0 +1,4 @@
+Cancel Rides,Cancel Rides Fields,Cancel Rides Order
+"Incomplete","'Uber'[Incomplete Rides Reason]",0
+"Customer","'Uber'[Reason for cancelling by Customer]",1
+"Driver","'Uber'[Driver Cancellation Reason]",2
